@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="counter_one_of_six">1 / 6</string>
+    <string name="art1_title">Deep Field Stellar Deaths</string>
+    <string name="art1_artist">Smacs Carin (2021)</string>
+    <string name="art1_description">A deep-field cosmic view capturing distant galaxies and star formation details.</string>
+
+    <string name="art2_title">Cosmic Dust Pillars</string>
+    <string name="art2_artist">Nourhan Al-Madhoun (2022)</string>
+    <string name="art2_description">Dense interstellar gas and dust clouds sculpted by radiation from young stars.</string>
+
+    <string name="art3_title">Ionized Nebula Veil</string>
+    <string name="art3_artist">Karam Al-Madhoun (2020)</string>
+    <string name="art3_description">Luminous emission nebula showcasing vibrant ionized gas layers in deep space.</string>
+
+    <string name="art4_title">Spiral Galaxy Core</string>
+    <string name="art4_artist">yasser Al-Madhoun (2023)</string>
+    <string name="art4_description">Bright galactic nucleus surrounded by swirling spiral arms rich in stars.</string>
+
+    <string name="art5_title">Sapphire Star Cluster</string>
+    <string name="art5_artist">Sameh Al-Madhoun (2021)</string>
+    <string name="art5_description">A dense cluster of young blue stars illuminating surrounding cosmic dust.</string>
+
+    <string name="counter_six_of_six">6 / 6</string>
+    <string name="art6_title">Hubble Ngc Flat Final</string>
+    <string name="art6_artist">Ammar Al-Madhoun (2019)</string>
+    <string name="art6_description">Detailed astronomical capture showing glowing red regions and star fields.</string>
+
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="details_button">Details</string>
+    <string name="share_button">Share</string>
+    <string name="artwork_content_desc">Deep Field Stellar Deaths artwork</string>
+
+    <string name="visit_website_button">Visit Website</string>
+    <string name="artwork_website_url">https://www.nasa.gov</string>
+</resources>
